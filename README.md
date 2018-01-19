@@ -1,4 +1,4 @@
-A simple currency converter. Converts currently eur, usd, gdb, but is easily 
+A simple currency converter. Currently converts eur, usd, gdb, but is easily 
 extendable. The interface is a bit so-so. This converter was a task for the JYU
 course TIEA341 Functional programming.
 
